@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I%27m+Abhinav+Kumar;Backend+Engineer+%26+Polyglot+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I%27m+Abhinav+Kumar" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -28,7 +28,6 @@ class BackendEngineer:
         self.username = "Dev-OSAbhi"
         self.role = "Backend Engineer"
         self.focus = ["Microservices", "Distributed Systems", "API Design", "Cloud Architecture"]
-        self.currently_learning = ["Rust", "Kubernetes", "System Design", "gRPC/Protobuf"]
         self.motto = "Build scalable. Write clean. Ship fast."
     
     def say_hi(self):
