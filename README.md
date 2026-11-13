@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I%27m+Abhinav+Kumar;Backend+Engineer+%7C+Polyglot+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I%27m+Abhinav+Kumar;Backend+Engineer+%26+Polyglot+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -83,19 +83,6 @@ class BackendEngineer:
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[rose](https://github.com/Dev-OSAbhi/rose)** | Advanced Telegram bot with modular architecture | `Python` `aiogram` `PostgreSQL` `Redis` |
-| **[megabot](https://github.com/Dev-OSAbhi/megabot)** | Mega.nz integration bot for file management | `Python` `Telegram Bot API` `Mega.py` |
-| **[moviebot](https://github.com/Dev-OSAbhi/moviebot)** | Movie search & download automation bot | `Python` `OMDB API` `Telegram` |
-| **[mw-filesbot](https://github.com/Dev-OSAbhi/mw-filesbot)** | MediaWiki file management & mirroring bot | `Python` `MediaWiki API` `Telegram` |
-
-> 💡 **Note**: Early projects from my learning journey (Python/Telegram bots). Actively building production-grade backend systems in Go/Java — stay tuned for new repos!
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -105,25 +92,6 @@ class BackendEngineer:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-OSAbhi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🏆 Competitive Programming
-
-| Platform | Profile | Rating | Max Rating |
-|----------|---------|--------|------------|
-| **Codeforces** | [@abhinavk3](https://codeforces.com/profile/abhinavk3) | — | — |
-| **CodeChef** | [@limitlesss345](https://www.codechef.com/users/limitlesss345) | — | — |
-
-> 🎯 *Actively practicing — ratings will update as I participate in more contests*
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-OSAbhi&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -150,15 +118,6 @@ class BackendEngineer:
 
 ---
 
-## 💭 Fun Facts
-
-- 🎮 **First code** — Started competitive programming and backend development
-- 🏗️ **Architecture enthusiast** — Love designing scalable systems and clean APIs
-- ☕ **Fuel** — Coffee + system design docs + late-night debugging
-- 📚 **Currently reading** — "Designing Data-Intensive Applications" by Martin Kleppmann
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=58A6FF,7C4DFF&height=100&section=footer&animation=fadeIn" alt="Footer" />
 </p>
@@ -166,10 +125,3 @@ class BackendEngineer:
 <p align="center">
   <sub>Built with ❤️ by <a href="https://github.com/Dev-OSAbhi">Abhinav Kumar</a> • Last updated: 2026-11-13</sub>
 </p>
-
-<!-- 
-  💡 PRO TIP: 
-  - Pin your best repositories on your GitHub profile
-  - Update Codeforces/CodeChef ratings as you compete
-  - The profile README displays at: https://github.com/Dev-OSAbhi
--->
